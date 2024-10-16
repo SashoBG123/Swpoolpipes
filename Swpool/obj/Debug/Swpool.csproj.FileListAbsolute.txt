@@ -1,0 +1,7 @@
+C:\Users\1212-13\Documents\11a\Swpool\Swpool\bin\Debug\Swpool.exe.config
+C:\Users\1212-13\Documents\11a\Swpool\Swpool\bin\Debug\Swpool.exe
+C:\Users\1212-13\Documents\11a\Swpool\Swpool\bin\Debug\Swpool.pdb
+C:\Users\1212-13\Documents\11a\Swpool\Swpool\obj\Debug\Swpool.csproj.AssemblyReference.cache
+C:\Users\1212-13\Documents\11a\Swpool\Swpool\obj\Debug\Swpool.csproj.CoreCompileInputs.cache
+C:\Users\1212-13\Documents\11a\Swpool\Swpool\obj\Debug\Swpool.exe
+C:\Users\1212-13\Documents\11a\Swpool\Swpool\obj\Debug\Swpool.pdb
